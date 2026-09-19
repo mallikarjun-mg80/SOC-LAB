@@ -1,0 +1,6 @@
+{
+  "name": "SOC Sentinel Lab",
+  "description": "Realistic beginner-friendly Security Operations Center (SOC) analyst training lab with live SIEM alerts, incident investigation, network and packet analysis, and interactive scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
